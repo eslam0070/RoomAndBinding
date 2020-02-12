@@ -50,6 +50,8 @@ Room has three main components of Room DB :
 
 ## DataBinding
 
+![Image description](https://miro.medium.com/max/3104/1*iJqgAGizxhw2BWF__wXEjA.png)
+
 Android DataBinding provides a way to tie the UI with business logic allowing the UI values to update automatically without manual intervention. This reduces lot of boilerplate code in your business logic that you usually write to sync the UI when new data is available. DataBinding is one of the android architecture components suggested by android.
 
 In this article we are going to learn the basics of DataBinding and in the next article, a simple profile screen is built using the RecyclerView with DataBinding.
